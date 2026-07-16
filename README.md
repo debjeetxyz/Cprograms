@@ -1,16 +1,16 @@
 # Cprograms
 Here are some C programming language programs as per what I learned in my first year of college. 
 This repo is organized by topic so problems and solutions are easy to browse.
-
+```
 Cprograms/
 ├── array/
 │   ├── matrix_operations/
-│   │   └── matmul.c        # Matrix multiplication
+│   │   └── matmul.c        
 │   └── sorting/
-│       └── bubble_sort.c   # Sorting algorithms
+│       └── bubble_sort.c   
 ├── LICENSE
 └── README.md
-
+```
 More topics and problems will be added over time.
 
  ## 📚 Topics Covered
